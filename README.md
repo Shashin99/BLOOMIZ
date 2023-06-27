@@ -1,7 +1,8 @@
 # BLOOMIZ
-Y1S2 - IT1100 - Internet and Web Technology (IWT)
-Academic Group Project
+<h3> Y1S2 - Academic Group Project </h3> 
+<h3> IT1100 - Internet and Web Technology (IWT) </h3>
 
+<br/> <br/>
 A bus scheduling and booking system developed using PHP, HTML, CSS, Bootstrap, and JavaScript is a web-based application that offers a user-friendly interface for passengers to search, schedule, and book bus tickets.
 
 The frontend of the system is built using HTML, CSS, and Bootstrap, which provides a visually appealing and responsive design. The use of Bootstrap ensures compatibility across various devices and screen sizes, offering a seamless user experience.JavaScript is employed to enhance the interactivity of the system. It enables dynamic features such as dropdown menus, auto-complete search suggestions, and real-time updates on seat availability.
