@@ -1,4 +1,4 @@
-# BLOOMIZ
+# BLOOMIZ - Bus Scheduling and Booking System
 <h3> Y1S2 - Academic Group Project </h3> 
 <h3> IT1100 - Internet and Web Technology (IWT) </h3>
 
@@ -10,3 +10,31 @@ The frontend of the system is built using HTML, CSS, and Bootstrap, which provid
 PHP serves as the backend programming language, handling the logic and functionality of the system. It interacts with the database to retrieve and store information about bus routes, schedules, seat availability, and user bookings.The system leverages PHP to implement features like route selection, seat reservation, and ticket purchase. It securely manages user authentication and integrates payment gateways to facilitate secure online transactions.
 
 Overall, the bus scheduling and booking system developed using PHP, HTML, CSS, Bootstrap, and JavaScript provides an efficient and user-friendly platform for passengers to conveniently search, schedule, and book bus tickets while ensuring a seamless and visually appealing user experience.
+
+Contributors:-
+<table>
+  <tr>
+    <th> Student ID </th>
+    <th> Student Name </th>
+  </tr>
+  <tr>
+    <td> IT21350214 </td>
+    <td> Nuski F.A. M </td>
+  </tr>
+  <tr>
+    <td> IT21352812 </td>
+    <td> P.M.C. Hiruni Pathiraja </td>
+  </tr>
+  <tr>
+    <td> IT21355646 </td>
+    <td> Bentotage S. N</td>
+  </tr>
+  <tr>
+    <td>  IT21355196  </td>
+    <td> K.L.Shashin Kalpajith </td>
+  </tr>
+  <tr>
+    <td> IT21359460</td>
+    <td>W.A. Ishini Kaweesha Gunarathna</td>
+  </tr>
+</table>
